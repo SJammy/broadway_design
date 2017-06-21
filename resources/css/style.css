@@ -1,0 +1,9 @@
+
+div #topspot {
+	background-image: url(resources/images/the-flatiron-building.png);
+}
+
+h1 {
+	font-size: 42px;
+	color: red;
+}
